@@ -16,10 +16,11 @@ I'm an **AI Automation Engineer** 🌍 from Nigeria, lived in South Africa, Keny
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-008080?style=for-the-badge)
 
-### GenAI & Automation Tools
+### GenAI / NLP / LLM
 ![LangChain](https://img.shields.io/badge/-LangChain-7B3FE4?style=for-the-badge)
 ![Chainlit](https://img.shields.io/badge/-Chainlit-000000?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-00BFFF?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/-n8n-FF3E00?style=for-the-badge)
 ![Make.com](https://img.shields.io/badge/-Make.com-FF1C1C?style=for-the-badge)
 
@@ -41,9 +42,6 @@ I'm an **AI Automation Engineer** 🌍 from Nigeria, lived in South Africa, Keny
 ![W&B](https://img.shields.io/badge/-Weights%26Biases-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
----
-
 ## 🎉 In my free time
 
 🏐 Doing sports: beach volleyball, surfing, calisthenics… you name it!  
@@ -55,4 +53,3 @@ I'm an **AI Automation Engineer** 🌍 from Nigeria, lived in South Africa, Keny
 
 - [GitHub](https://github.com/your-username)  
 - [LinkedIn](https://linkedin.com/in/your-link)  
-- [YouTube](https://youtube.com/your-link)
