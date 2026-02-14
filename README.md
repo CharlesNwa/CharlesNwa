@@ -1,5 +1,9 @@
-## Hi, I’m Nwachukwu Charles 👋 👋
-##🧠 Passionate about Artificial Intelligence
+                                                                  Hi, I’m Nwachukwu Charles 👋 👋
 
-##🌍 from Nigeria lived in South Africa , kenya ,lesotho 
-##🌟 Always eager to learn and embrace new challenges
+                                       I'm a AI Automation Enginer  🌍 from Nigeria lived in South Africa , kenya ,lesotho 
+                            
+🧠 Passionate about Artificial Intelligence
+
+🌟 Always eager to learn and embrace new challenges
+
+👯 I’m looking to collaborate on OpenSource Projects
