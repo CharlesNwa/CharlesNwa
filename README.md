@@ -1,6 +1,6 @@
 # Hi there, I'm Nwachukwu Charles! 👋
 
-I'm an **AI Automation Engineer** 🌍 from Nigeria
+I'm an **AI/ML Automation Engineer** 🌍 from Nigeria
 
 🧠 Passionate about Artificial Intelligence and building smart automation solutions  
 🌟 Always eager to learn, experiment, and contribute to open-source projects  
